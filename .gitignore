@@ -30,8 +30,7 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-# Tex generated files
+# Binaries
 #####################
-*.pdf
 *.out
 *.aux

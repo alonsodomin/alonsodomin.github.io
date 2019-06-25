@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alonsodomin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alonsodomin.github.io
+  * I am alonsodomin (https://keybase.io/alonsodomin) on keybase.
+  * I have a public key ASDi4cXyIIfax8JrLzMkgC1U1dNWlMTfTQDJ0td18SvjFQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e2e1c5f22087dac7c26b2f3324802d54d5d35694c4df4d00c9d2d775f12be3150a",
+      "host": "keybase.io",
+      "kid": "0120e2e1c5f22087dac7c26b2f3324802d54d5d35694c4df4d00c9d2d775f12be3150a",
+      "uid": "b8f3f5a36eaac77466e6d06f57430019",
+      "username": "alonsodomin"
+    },
+    "merkle_root": {
+      "ctime": 1561491032,
+      "hash": "d293006089a5186bbf9339a5447707ffea761c1045f41a1ba4c5c251ccf829be2d42d91a00029bea032b905da022ce6209a8c711e10f8bf280a414386d544b8f",
+      "hash_meta": "7e47e2a5bc4963175f96ccc4f8ba6f7fb21f09c38fff8b9bb8fe93df82582e20",
+      "seqno": 5638402
+    },
+    "service": {
+      "entropy": "sYEf0fDWiPF0eezH6HZ6gUyf",
+      "hostname": "alonsodomin.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1561491065,
+  "expire_in": 504576000,
+  "prev": "472ec74a7b6adba61317b6acdfda40648c98cf6b6f132b6579ad7eee35542274",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4uHF8iCH2sfCay8zJIAtVNXTVpTE300AydLXdfEr4xUKp3BheWxvYWTESpcCDsQgRy7HSntq26YTF7as39pAZIyYz2tvEytlea1+7jVUInTEIMipvaM8WLevAYeJQpRYhB4BHfFVfwAXtp28S9S0QL9yAgHCo3NpZ8RA5fyLAcIRWJyvCAaNel22zybDPMnvOFZAA9pbdxxb51cUfTvw9wJxyaKT9eniwRPqUWsZ58B/lVgTSfT4rlb8AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDxMKLBqYsxk51VsTsnwgNCyH9Rm97J2ijKHrhjszE41o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alonsodomin
+
+==================================================================
